@@ -8,7 +8,17 @@ license = "Apache-2.0"
 repository = "https://github.com/vkpatva/mnemonic-generator"
 homepage = "https://github.com/vkpatva/mnemonic-generator"
 readme = "README.md"
-categories = ["cryptography", "mnemonic", "generator", "BIP-39"]
+keywords = [
+    "bip39",
+    "mnemonic",
+    "generator",
+    "blockchain",
+    "wallet",
+    "bitcoin",
+    "ethereum",
+    "keyphrase",
+]
+categories = ["cryptography"]
 
 [dependencies]
 rand = "0.8.5"
